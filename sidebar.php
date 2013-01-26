@@ -8,6 +8,17 @@
 
 tha_sidebars_before(); ?>
 <section id="secondary" class="widget-area span4" role="complementary">
+	<aside id="text-2" class="widget well widget_text">
+		<div class="textwidget">
+			<h4>Lista de (ɔ)orreo </h4>
+			<form method="POST" action="https://listas.sindominio.net/mailman/subscribe/hacktivistas"> 
+				<input type="text" value="" size="30" name="email" placeholder="tu@correo.net" style="width:90%" />
+				<br />
+				<input type="submit" value="Subscribir" name="email-button" class="btn" />
+			</form>
+		</div>
+	</aside>	
+	
 	<?php tha_sidebar_top();
 	
 	if ( ! dynamic_sidebar( 'main' ) ) {
