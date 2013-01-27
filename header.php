@@ -68,7 +68,7 @@
 										<span class="icon-bar"></span>
 									</a>
 									<?php if ( the_bootstrap_options()->navbar_site_name ) : ?>
-									<span class="brand"><?php bloginfo( 'name' ); ?></span>
+									<span class="brand"><img src="wp-content/themes/wp-theme-hacktivistas/img/logohacktivistas.png"></span>
 									<?php endif;?>
 									<div class="nav-collapse">
 										<?php wp_nav_menu( array(
