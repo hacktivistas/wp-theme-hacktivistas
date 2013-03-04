@@ -356,7 +356,7 @@ if ( ! function_exists( 'the_bootstrap_credits' ) ) :
  */
 function the_bootstrap_credits() {
 	printf(
-		'<span class="credits alignleft">' . __( '(ɔ) %1$s <a href="%2$s">%3$s</a>, Copyleft.', 'the-bootstrap' ) . '</span>',
+		'<span class="credits alignleft">(ɔ) %1$s <a href="%2$s">%3$s</a>, Copyleft.', 'the-bootstrap</span>',
 		date( 'Y' ),
 		home_url( '/' ),
 		get_bloginfo( 'name' )
