@@ -4,7 +4,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-03-04 03:49+0100\n"
 "PO-Revision-Date: \n"
-"Last-Translator: Iván Eixarch <ivan@sinanimodelucro.org>\n"
+"Last-Translator: no <no@no.com>\n"
 "Language-Team: hacktivistas <ivan@sinanimodelucro.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -203,7 +203,7 @@ msgstr "Ingresado como <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\" title=\"Salir
 
 #: functions.php:597
 msgid "Pingback:"
-msgstr ""
+msgstr "Pingback:"
 
 #: functions.php:614
 #, php-format
@@ -273,11 +273,11 @@ msgstr "Ningún resultado coincidió con tus criterios de búsqueda. Inténtelo 
 
 #: partials/content-not-found.php:24
 msgid "Apologies, but no results were found for the requested archive. Perhaps searching will help find a related post."
-msgstr ""
+msgstr "Disculpe, No fueron encontrados resultados en el archivo requerido. Quizás buscando encuentre relaciones."
 
 #: partials/content.php:20
 msgid "Featured"
-msgstr ""
+msgstr "Destacada"
 
 #: partials/content.php:55
 #: partials/content-single.php:33
@@ -304,238 +304,238 @@ msgstr[1] "Esta galería contiene <strong>%1$s fotos</strong>."
 
 #: inc/the-bootstrap-gallery-widget.php:28
 msgid "The Bootstrap Gallery Widget"
-msgstr ""
+msgstr "Artilugio galería bootstrap"
 
 #: inc/the-bootstrap-gallery-widget.php:30
 msgid "Displays gallery images of a specified post with the Gallery post format."
-msgstr ""
+msgstr "Mostrar galería de imágenes de una entrada específica con formato de entrada como galería"
 
 #: inc/the-bootstrap-gallery-widget.php:142
 #, php-format
 msgid "No galleries have been created yet. <a href=\"%s\">Create some</a>."
-msgstr ""
+msgstr "No han sido creadas galería todavía. <a href=\"%s\">Crear una</a>."
 
 #: inc/the-bootstrap-gallery-widget.php:147
 msgid "Select Gallery:"
-msgstr ""
+msgstr "Selecciones galería:"
 
 #: inc/the-bootstrap-image-meta-widget.php:28
 msgid "The Bootstrap Image Meta Widget"
-msgstr ""
+msgstr "Artilugio meta imagen bootstrap"
 
 #: inc/the-bootstrap-image-meta-widget.php:30
 msgid "Displays meta information on image attachment pages"
-msgstr ""
+msgstr "Mostrar información meta sobre la imagen en las páginas de imagen adjunta"
 
 #: inc/the-bootstrap-image-meta-widget.php:52
 msgid "Info"
-msgstr ""
+msgstr "Info"
 
 #: inc/the-bootstrap-image-meta-widget.php:60
 msgid "Created:"
-msgstr ""
+msgstr "Creado:"
 
 #: inc/the-bootstrap-image-meta-widget.php:64
 msgid "Full size:"
-msgstr ""
+msgstr "Tamaño completo:"
 
 #: inc/the-bootstrap-image-meta-widget.php:65
 #, php-format
 msgid "%s pixels"
-msgstr ""
+msgstr "%s pixels"
 
 #: inc/the-bootstrap-image-meta-widget.php:68
 msgid "Aperture:"
-msgstr ""
+msgstr "Apertura:"
 
 #: inc/the-bootstrap-image-meta-widget.php:73
 msgid "Focal length:"
-msgstr ""
+msgstr "Distancia focal:"
 
 #: inc/the-bootstrap-image-meta-widget.php:78
 msgid "Iso:"
-msgstr ""
+msgstr "Iso:"
 
 #: inc/the-bootstrap-image-meta-widget.php:83
 msgid "Shutter:"
-msgstr ""
+msgstr "Obturador:"
 
 #: inc/the-bootstrap-image-meta-widget.php:90
 #: inc/the-bootstrap-image-meta-widget.php:92
 #: inc/the-bootstrap-image-meta-widget.php:95
 #, php-format
 msgid "%d sec."
-msgstr ""
+msgstr "%d seg."
 
 #: inc/the-bootstrap-image-meta-widget.php:102
 msgid "Camera:"
-msgstr ""
+msgstr "Cámara:"
 
 #: inc/the-bootstrap-image-meta-widget.php:151
 msgid "Title:"
-msgstr ""
+msgstr "Título:"
 
 #: inc/theme-options.php:22
 #: inc/theme-options.php:23
 #: inc/theme-options.php:145
 msgid "Theme Options"
-msgstr ""
+msgstr "Opciones de la plantilla"
 
 #: inc/theme-options.php:79
 #: inc/theme-customizer.php:47
 msgid "Default Layout"
-msgstr ""
+msgstr "Disposición por defecto"
 
 #: inc/theme-options.php:80
 msgid "Navigation Bar"
-msgstr ""
+msgstr "Barra de Navegación"
 
 #: inc/theme-options.php:84
 #: inc/theme-customizer.php:59
 msgid "Add site name to navigation bar."
-msgstr ""
+msgstr "Añadir nombre del sitio a la barra de navegación."
 
 #: inc/theme-options.php:89
 #: inc/theme-customizer.php:67
 msgid "Add searchform to navigation bar."
-msgstr ""
+msgstr "Añadir formulario de búsqueda a la barra de navegación."
 
 #: inc/theme-options.php:92
 #: inc/theme-customizer.php:83
 msgid "Navigation Bar Position"
-msgstr ""
+msgstr "Posición de la barra de navegación"
 
 #: inc/theme-options.php:97
 #: inc/theme-customizer.php:88
 msgid "Static."
-msgstr ""
+msgstr "Estática"
 
 #: inc/theme-options.php:101
 #: inc/theme-customizer.php:89
 msgid "Fixed on top."
-msgstr ""
+msgstr "Fijadas arriba"
 
 #: inc/theme-options.php:105
 #: inc/theme-customizer.php:90
 msgid "Fixed at bottom."
-msgstr ""
+msgstr "Fijada abajo"
 
 #: inc/theme-options.php:166
 #: inc/theme-customizer.php:52
 msgid "Content on left"
-msgstr ""
+msgstr "Contenido hacia la izquierda"
 
 #: inc/theme-options.php:170
 #: inc/theme-customizer.php:53
 msgid "Content on right"
-msgstr ""
+msgstr "Contenido hacia la derecha"
 
 #: inc/theme-options.php:302
 #, php-format
 msgid "Settings saved. <a href=\"%s\">Visit your site</a> to see how it looks."
-msgstr ""
+msgstr "Preferencias guardadas. <a href=\"%s\">Visite su sitio</a> para ver como luce ahora."
 
 #: inc/theme-options.php:340
 msgid "Or you could:"
-msgstr ""
+msgstr "O tu deberías:"
 
 #: inc/theme-options.php:342
 msgid "Rate the Theme 5&#9733; on WordPress.org"
-msgstr ""
+msgstr "Califica este theme &#9733; en wordpress.org"
 
 #: inc/theme-options.php:343
 msgid "Blog about it &amp; link to the Theme page"
-msgstr ""
+msgstr "Sobre este blog &amp; enlace a la página del theme"
 
 #: inc/theme-options.php:375
 msgid "No news items, feed might be broken..."
-msgstr ""
+msgstr "No hay temas nuevos, el lío puede ser que esté roto"
 
 #: inc/theme-options.php:381
 msgid "Follow Konstantin on Twitter"
-msgstr ""
+msgstr "Sigue a Konstantin en twitter"
 
 #: inc/theme-options.php:382
 msgid "Subscribe via RSS"
-msgstr ""
+msgstr "Suscribirse vía RSS"
 
 #: inc/theme-customizer.php:28
 msgid "Layout"
-msgstr ""
+msgstr "Disposición"
 
 #: inc/theme-customizer.php:32
 msgid "Navbar Options"
-msgstr ""
+msgstr "Opciones de la barra de navegación"
 
 #: inc/theme-customizer.php:75
 msgid "Use inverse color on navigation bar."
-msgstr ""
+msgstr "Usar color inverso en la barra de navegación."
 
 #: inc/template-tags.php:75
 msgid "Comment navigation"
-msgstr ""
+msgstr "Navegación de comentarios"
 
 #: inc/template-tags.php:76
 msgid "&larr; Newer Comments"
-msgstr ""
+msgstr "&larr; Comentarios más nuevos"
 
 #: inc/template-tags.php:77
 msgid "Older Comments &rarr;"
-msgstr ""
+msgstr "Comentarios más antiguos &rarr;"
 
 #: inc/template-tags.php:95
 #, php-format
 msgid "<span class=\"sep\">Posted on </span><a href=\"%1$s\" title=\"%2$s\" rel=\"bookmark\"><time class=\"entry-date\" datetime=\"%3$s\" pubdate>%4$s</time></a><span class=\"by-author\"> <span class=\"sep\"> by </span> <span class=\"author vcard\"><a class=\"url fn n\" href=\"%5$s\" title=\"%6$s\" rel=\"author\">%7$s</a></span></span>"
-msgstr ""
+msgstr "<span class=\"sep\"></span><a href=\"%1$s\" title=\"%2$s\" rel=\"bookmark\"><time class=\"entry-date\" datetime=\"%3$s\" pubdate>%4$s</time></a><span class=\"by-author\"> <span class=\"sep\"> por </span> <span class=\"author vcard\"><a class=\"url fn n\" href=\"%5$s\" title=\"%6$s\" rel=\"author\">%7$s</a></span></span>"
 
 #: inc/template-tags.php:101
 #, php-format
 msgid "View all posts by %s"
-msgstr ""
+msgstr "Ver todas las entradas de %s"
 
 #: inc/template-tags.php:107
 msgid "<strong>1</strong> Reply"
-msgstr ""
+msgstr "<strong>1</strong> Respuesta"
 
 #: inc/template-tags.php:107
 msgid "<strong>%</strong> Replies"
-msgstr ""
+msgstr "<strong>%</strong> Respuestas"
 
 #: inc/template-tags.php:135
 msgid "Next page"
-msgstr ""
+msgstr "Página siguiente"
 
 #: inc/template-tags.php:136
 msgid "Previous page"
-msgstr ""
+msgstr "Página anterior"
 
 #: inc/template-tags.php:150
 #: inc/template-tags.php:164
 msgid "Pages:"
-msgstr ""
+msgstr "Páginas:"
 
 #: inc/template-tags.php:257
 msgid "No Comments"
-msgstr ""
+msgstr "Sin comentarios"
 
 #: inc/template-tags.php:258
 msgid "1 Comment"
-msgstr ""
+msgstr "1 Comentario"
 
 #: inc/template-tags.php:259
 msgid "% Comments"
-msgstr ""
+msgstr "% Comentarios"
 
 #: inc/template-tags.php:260
 msgid "Comments Off"
-msgstr ""
+msgstr "Comentarios cerrados"
 
 #: inc/template-tags.php:268
 msgid "Enter your password to view comments."
-msgstr ""
+msgstr "Introduce tu contraseña para ver comentarios."
 
 #: inc/template-tags.php:281
 #, php-format
 msgid "Comment on %s"
-msgstr ""
+msgstr "Comentario sobre %s"
 
