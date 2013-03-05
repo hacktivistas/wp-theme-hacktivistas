@@ -24,7 +24,7 @@
 	</head>
 	
 	<body <?php body_class(); ?>>
-			<div class="container">
+		<div class="container">
 			<div id="page" class="hfeed row">
 				<?php tha_header_before(); ?>
 				<header id="branding" role="banner" class="span12">
@@ -60,7 +60,7 @@
 						<?php if ( has_nav_menu( 'primary' ) OR the_bootstrap_options()->navbar_site_name OR the_bootstrap_options()->navbar_searchform ) : ?>
 						<div <?php the_bootstrap_navbar_class(); ?>>
 							<div class="navbar-inner">
-								
+								<div class="container">
 									<!-- .btn-navbar is used as the toggle for collapsed navbar content -->
 									<a class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
 										<span class="icon-bar"></span>
@@ -81,7 +81,7 @@
 										if ( the_bootstrap_options()->navbar_searchform ) {
 											the_bootstrap_navbar_searchform();
 										} ?>
-								   
+								    </div>
 								</div>
 							</div>
 						</div>
@@ -93,7 +93,6 @@
 					tha_header_bottom(); ?>
 				</header><!-- #branding --><?php
 				tha_header_after();
-			
 				
 
 /* End of file header.php */
