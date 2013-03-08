@@ -1076,6 +1076,13 @@ function _the_bootstrap_version() {
 	return $theme_version;
 }
 
+/**
+ * Remove WP version from header
+ *
+ * @author  Antonio Pardo
+ * @since   07.03.2013
+*/
+remove_action('wp_head', 'wp_generator');
 
 /* End of file functions.php */
 /* Location: ./wp-content/themes/the-bootstrap/functions.php */
